@@ -1,0 +1,68 @@
+article {
+  border: 1px solid #d1d5dc;
+  width: 340px;
+  height: auto;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+img {
+  width: 340px;
+}
+
+span {
+  display: block;
+  font-size: 30px;
+  margin-bottom: 16px;
+}
+
+section {
+  padding: 32px 24px;
+  border-bottom: 1px solid #d1d5dc;
+}
+
+.price {
+  border-bottom: 1px solid #d1d5dc;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 12px 0px;
+}
+
+.cart {
+  font-size: 18px;
+  color: white;
+  background-color: #ff1331;
+  border: none;
+  margin-bottom: 8px;
+}
+
+.order {
+  font-size: 18px;
+  color: #ff1331;
+  background-color: white;
+  border: 2px solid #ff1331;
+  margin-bottom: 24px;
+}
+
+p {
+  margin: 24px 0 16px 0;
+}
+
+ul {
+  padding-left: 14px;
+}
+
+li {
+  list-style-type: circle;
+  margin-bottom: 12px;
+}
+
+.note p {
+  width: 100%;
+  padding: 16px 0px;
+  margin: auto;
+  text-align: center;
+}
